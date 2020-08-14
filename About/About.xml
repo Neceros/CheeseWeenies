@@ -5,6 +5,7 @@
 		<supportedVersions>
       <li>1.0</li>
       <li>1.1</li>
+      <li>1.2</li>
     </supportedVersions>
     <packageId>neceros.cheeseweenies</packageId>
 		<description>Changes the nutrient paste meals to be cheese weenies. Still gross to eat, though.</description>
